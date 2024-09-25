@@ -3,7 +3,6 @@
 Параметры страницы
 </head>
 <body>
-<amg>png-transparent-internet-meme-rage-comic-know-your-meme-meme-white-child-face-thumbnail.png</amg>
 <H2>Маркированный список</H2>
 <ul type=’circle’>
 <li>Яблоко</li>
@@ -36,8 +35,6 @@
 </pre>
 <font color=’red’></font><p>  
 <sup>конец.</sup></p>
+<img src="pngl.jpg">
 </body>
 </html>
-
-
-
